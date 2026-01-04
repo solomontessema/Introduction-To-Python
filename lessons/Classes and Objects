@@ -1,0 +1,41 @@
+## Classes & Objects
+
+This lesson includes a hands-on coding exercise. After reviewing the material below, please open the lab assignment using the link below:
+
+---
+
+Classes and objects are the foundation of object-oriented programming (OOP), a powerful way to model real-world systems in code. In Python, classes let you define reusable templates for things — like users, products, or tasks — while objects are individual instances of those templates.
+
+For non-technical leaders, understanding classes and objects helps clarify how software systems are structured, how data is organized, and how behaviors are encapsulated.
+
+---
+
+### **Why Classes Matter**
+
+Classes help you:
+
+- Group related data and actions together  
+- Create reusable components across projects  
+- Model real-world entities like customers or orders  
+- Improve clarity and maintainability in code  
+
+They’re especially useful when building systems that involve many similar items with shared behavior.
+
+---
+
+### **What Are Objects?**
+
+An object is a specific instance of a class. If a class is a blueprint, an object is the finished product. Each object can hold its own data and perform actions defined by the class.
+
+For example, a class might define what a “Task” looks like, while each object represents a specific task with its own deadline and status.
+
+---
+
+### What You'll Learn in This Module
+
+By the end of this lesson, you’ll understand:
+
+- What classes and objects are in Python  
+- How they relate to real-world systems  
+- Why object-oriented design improves scalability  
+- How to interpret and communicate system structure more effectively

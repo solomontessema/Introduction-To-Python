@@ -1,0 +1,46 @@
+## File I/O & JSON
+
+This lesson includes a hands-on coding exercise. After reviewing the material below, please open the lab assignment using the link below:
+
+---
+
+Python’s ability to read and write files is essential for working with real-world data. Whether you're handling reports, logs, or structured datasets, understanding file I/O (input/output) gives you control over how information flows in and out of your programs.
+
+JSON (JavaScript Object Notation) is a popular format for storing structured data. It’s used in APIs, configuration files, and data exchanges between systems. Python makes it easy to read, write, and manipulate JSON — a key skill for leaders working with digital tools and platforms.
+
+---
+
+### **Why File I/O Matters**
+
+File I/O allows you to:
+
+- Save results from your analysis  
+- Load data from spreadsheets or logs  
+- Automate reporting and documentation  
+- Archive information for future use  
+
+It’s the bridge between your code and the outside world.
+
+---
+
+### **Why JSON Is Important**
+
+JSON is ideal for:
+
+- Storing structured data like user profiles or product info  
+- Communicating with web services and APIs  
+- Sharing data between systems in a standardized format  
+- Making your programs interoperable and scalable  
+
+For non-technical professionals, JSON is a readable way to understand how systems organize and exchange data.
+
+---
+
+### What You'll Learn in This Module
+
+By the end of this lesson, you’ll understand:
+
+- How Python reads and writes files  
+- What JSON is and how it’s used  
+- How to work with structured data in real-world scenarios  
+- How file I/O and JSON support automation and integration

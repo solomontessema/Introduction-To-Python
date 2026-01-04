@@ -1,0 +1,46 @@
+## Web Requests & APIs
+
+This lesson includes a hands-on coding exercise. After reviewing the material below, please open the lab assignment using the link below:
+
+---
+
+Web requests and APIs (Application Programming Interfaces) allow Python to interact with online services and data sources. Instead of manually downloading files or copying information, you can write scripts that fetch data directly from websites, apps, or cloud platforms.
+
+For non-technical leaders, this means you can automate data collection, integrate tools, and build smarter workflows — all by connecting to the web programmatically.
+
+---
+
+### **Why Web Requests Matter**
+
+Web requests help you:
+
+- Access real-time data from external sources  
+- Automate updates and reporting  
+- Connect your tools to online platforms  
+- Reduce manual data entry and errors  
+
+They’re essential for building systems that stay current and responsive.
+
+---
+
+### **What Are APIs?**
+
+APIs are structured gateways that let software systems talk to each other. They define how to request data, send updates, or trigger actions. Most modern platforms — from CRMs to weather services — offer APIs to share data securely and reliably.
+
+Using APIs, you can:
+
+- Pull data from dashboards or analytics tools  
+- Send updates to project management systems  
+- Integrate with services like Slack, Google Sheets, or Stripe  
+- Build custom workflows across platforms
+
+---
+
+### What You'll Learn in This Module
+
+By the end of this lesson, you’ll understand:
+
+- How Python sends and receives data from the web  
+- What APIs are and how they’re used in business  
+- How to think about integration and automation  
+- How web connectivity expands what your tools can do
